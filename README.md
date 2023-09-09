@@ -2,12 +2,12 @@
 
 Ola meu nome é Igor e seja bem vindo ao meu repositorio GitHub.
 
-Por aqui você poderá acompanhar os projetos realizados por min na minha tragetoria aprendendo a ser programador.
+Por aqui você poderá acompanhar os projetos realizados por mim na minha tragetoria aprendendo a ser programador.
 
 # Quem sou eu &#x1F609; 
 Sou estuandante de Engenharia Elétrica no CEFET-MG, e desde abril de 2022 estou apaixonado pelo mundo da programação.
 
-Atualemte sou estagiário PRODEP, onde estou trabalhando em projetos de desenvolvimento Web usando o Framework Django.
+Atualmente sou estagiário PRODEP, onde estou trabalhando em projetos de desenvolvimento Web usando o Framework Django.
 
 Nos meus tempos livres, dedico-me à criação de projetos pessoais com o objetivo constante de aprimorar minhas habilidades e conhecimentos.
 
