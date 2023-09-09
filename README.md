@@ -1,15 +1,15 @@
 # Hello World!! &#x1F913;&#x1F913;
 
-Ola meu nome é Igor e seja bem vindo ao meu repositorio GitHub.
+Olá, meu nome é Igor e seja bem-vindo ao meu repositório GitHub.
 
-Por aqui você poderá acompanhar os projetos realizados por mim na minha tragetoria aprendendo a ser programador.
+Por aqui, você poderá acompanhar os projetos que realizei na minha trajetória aprendendo a ser programador.
 
 # Quem sou eu &#x1F609; 
-Sou estuandante de Engenharia Elétrica no CEFET-MG, e desde abril de 2022 estou apaixonado pelo mundo da programação.
+Sou estudante de Engenharia Elétrica no CEFET-MG, e desde abril de 2022 estou apaixonado pelo mundo da programação.
 
-Atualmente sou estagiário PRODEP, onde estou trabalhando em projetos de desenvolvimento Web usando o Framework Django.
+Atualmente, sou estagiário PRODEP e estou trabalhando em projetos de desenvolvimento Web utilizando o Framework Django.
 
-Nos meus tempos livres, dedico-me à criação de projetos pessoais com o objetivo constante de aprimorar minhas habilidades e conhecimentos.
+Nos meus tempos livres, me dedico à criação de projetos pessoais, com o objetivo constante de aprimorar minhas habilidades e conhecimentos
 
 ![Igor Campos GitHub stats](https://github-readme-stats.vercel.app/api?username=CEFET-Igor&show_icons=true&theme=radical)
 
