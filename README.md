@@ -1,18 +1,20 @@
-# Hello World!! &#x1F913;&#x1F913;
+# Hello World!! &#x1F44B;&#x1F913;
 
-Olá, meu nome é Igor e seja bem-vindo ao meu repositório GitHub.
+Olá, Bem-vindo ao meu repositório GitHub! Aqui você encontra alguns projetos que venho desenvolvendo durante minha trajetória..
 
-Por aqui, você poderá acompanhar os projetos que realizei na minha trajetória aprendendo a ser programador.
+# Quem sou eu &#x1F609;
+Meu nome é Igor, sou estudante de Engenharia Elétrica no CEFET-MG. Desde outubro de 2021, estou imerso no mundo da Engenharia Elétrica, e desde abril de 2022, tenho me dedicado ao mundo da programação. Atualmente, sou estagiário PRODEP e estou trabalhando em projetos de desenvolvimento Web utilizando o Framework Django. Nos meus tempos livres, me dedico à criação de projetos pessoais, com o objetivo constante de aprimorar minhas habilidades e conhecimentos.
 
-# Quem sou eu &#x1F609; 
-Sou estudante de Engenharia Elétrica no CEFET-MG, e desde abril de 2022 estou apaixonado pelo mundo da programação.
+🎓 Estudante de Engenharia Elétrica no CEFET-MG
 
-Atualmente, sou estagiário PRODEP e estou trabalhando em projetos de desenvolvimento Web utilizando o Framework Django.
+&#x1F30D; Apaixonado pelo Mundo da Programação
 
-Nos meus tempos livres, me dedico à criação de projetos pessoais, com o objetivo constante de aprimorar minhas habilidades e conhecimentos
+&#x1F4BB; Desenvolvedor Frontend em Crescimento
+
+&#x1F680; Explorando o Universo do Desenvolvimento Web
+
 
 ![Igor Campos GitHub stats](https://github-readme-stats.vercel.app/api?username=CEFET-Igor&show_icons=true&theme=radical)
-
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CEFET-Igor&show_icons=true&theme=radical&layout=donut&langs_count=5)
 
 # Tecnologias que eu uso no meu dia 
