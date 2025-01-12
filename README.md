@@ -1,15 +1,19 @@
-# Hello World!! &#x1F44B;&#x1F913;
+# Hello World!! &#x1F44B;&#x1F4BB;&#x1F680;
 
-Olá, Bem-vindo ao meu repositório GitHub! Aqui você encontra alguns projetos que venho desenvolvendo durante minha trajetória..
+Olá, Pessoal!!
+
+Sejam bem-vindos ao meu repositório GitHub! Aqui estão projetos que venho desenvolvendo durante minha trajetória.
 
 # Quem sou eu &#x1F609;
-Meu nome é Igor, sou estudante de Engenharia Elétrica no CEFET-MG. Desde outubro de 2021, estou imerso no mundo da Engenharia Elétrica, e desde abril de 2022, tenho me dedicado ao mundo da programação. Atualmente, sou estagiário PRODEP e estou trabalhando em projetos de desenvolvimento Web utilizando o Framework Django. Nos meus tempos livres, me dedico à criação de projetos pessoais, com o objetivo constante de aprimorar minhas habilidades e conhecimentos.
+<div align="justify">Meu nome é Igor, sou estudante de Engenharia Elétrica no CEFET-MG. Iniciei minha graduação em outubro de 2021 e, em fevereiro de 2022, comecei minha trajetória interdisciplinar, ingressando na área de Engenharia da Computação e Programação. Trabalho em projetos de desenvolvimento web e estou sempre buscando aprimorar minhas habilidades. Uso o GitHub para compartilhar os projetos que desenvolvo e acompanhar minha evolução na área.</div>
 
-🎓 Estudante de Engenharia Elétrica no CEFET-MG
+<br>
+
+&#x1F393; Estudante de Engenharia Elétrica no CEFET-MG
 
 &#x1F30D; Apaixonado pelo Mundo da Programação
 
-&#x1F4BB; Desenvolvedor Frontend em Crescimento
+&#x1F4BB; Desenvolvedor Web em Crescimento
 
 &#x1F680; Explorando o Universo do Desenvolvimento Web
 
@@ -41,5 +45,3 @@ Minhas redes pessoais.
 
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/IgorGCampos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorguimaraescampos/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Igor-Campos/)
-![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
