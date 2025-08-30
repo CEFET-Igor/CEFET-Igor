@@ -35,13 +35,10 @@ Sejam bem-vindos ao meu repositório GitHub! Aqui estão projetos que venho dese
 
 # Fale comigo
 Para comunicação podem me encontrar nas Redes:
-
-Minhas redes profisionais.
-
+<div style="display: inline-block;" align="center">
+    
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorguicampos/)
-[![GitHub](https://img.shields.io/github/followers/CEFET-Igor.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/CEFET-Igor)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CEFET-Igor)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Igor-Campos/)
 
-Minhas redes pessoais.
-
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/IgorGCampos)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorguimaraescampos/)
+</div>
